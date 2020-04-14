@@ -27,7 +27,7 @@ describe("App component", () => {
       id: "123",
       url: "https://github.com/marciodiasdeveloper",
       title: "Desafio ReactJS",
-      techs: ["React", "Node.js"],
+      techs: ["React", "Node.js", "React Native"],
     });
 
     await actWait();
